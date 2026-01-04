@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "recipes_plus:netheriteironupgradesmithingtemplate"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "recipes_plus:netheriteironingot"
+  },
+  "result": {
+    "item": "recipes_plus:netheriteironsword"
+  }
+}

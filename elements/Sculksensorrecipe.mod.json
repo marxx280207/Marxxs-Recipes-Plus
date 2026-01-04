@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.TWISTING_VINES"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "Blocks.TWISTING_VINES"
+      },
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      },
+      {
+        "value": "Blocks.WARPED_WART_BLOCK"
+      },
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SCULK_SENSOR"
+    },
+    "name": "sculksensorrecipe",
+    "namespace": "mod"
+  }
+}

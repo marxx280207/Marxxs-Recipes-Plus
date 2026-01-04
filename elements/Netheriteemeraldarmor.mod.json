@@ -1,0 +1,29 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Now the villagers will love me",
+    "achievementDescription": "Obtain the entire set of netherite and emerald armor",
+    "achievementIcon": {
+      "value": "CUSTOM:Netheriteemerald.body"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Netheritediamondhelmetrecipe",
+      "Netheritediamondchestplaterecipe",
+      "Netheritediamondleggingsrecipe",
+      "Netheritediamondbootsrecipe"
+    ],
+    "rewardXP": 400,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Netheritegoldarmor"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"13\" y=\"27\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

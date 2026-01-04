@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "recipes_plus:netheritediamondupgradesmithingtemplate"
+  },
+  "base": {
+    "item": "recipes_plus:netheriteemeraldpickaxe"
+  },
+  "addition": {
+    "item": "recipes_plus:netheritediamondingot"
+  },
+  "result": {
+    "item": "recipes_plus:netheritediamondpickaxe"
+  }
+}

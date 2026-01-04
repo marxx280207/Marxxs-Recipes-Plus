@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "recipes_plus:netheritegoldupgradesmithingtemplate"
+  },
+  "base": {
+    "item": "recipes_plus:netheriteiron_helmet"
+  },
+  "addition": {
+    "item": "recipes_plus:netheritegoldingot"
+  },
+  "result": {
+    "item": "recipes_plus:netheritegold_helmet"
+  }
+}

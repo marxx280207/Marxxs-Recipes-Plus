@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "recipes_plus:copperaxe",
+    "recipes_plus:netheritediamondaxe",
+    "recipes_plus:netheriteemeraldaxe",
+    "recipes_plus:netheritegoldaxe",
+    "recipes_plus:netheriteironaxe"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "item": "recipes_plus:netheriteironupgradesmithingtemplate"
+    },
+    "title": {
+      "translate": "advancements.netheriteironupgrade.title"
+    },
+    "description": {
+      "translate": "advancements.netheriteironupgrade.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netheriteironupgrade_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "recipes_plus:netheriteironupgradesmithingtemplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100,
+    "recipes": [
+      "recipes_plus:netheritegoldupgradesmithingtemplaterecipe"
+    ]
+  },
+  "parent": "recipes_plus:netheriteironingotadv"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "recipes_plus:copperhoe",
+    "recipes_plus:netheritediamondhoe",
+    "recipes_plus:netheriteemeraldhoe",
+    "recipes_plus:netheritegoldhoe",
+    "recipes_plus:netheriteironhoe"
+  ]
+}

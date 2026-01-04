@@ -1,0 +1,3224 @@
+{
+  "mod_elements": [
+    {
+      "name": "Elytrarecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elytrarecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/elytrarecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sculksensorrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sculksensorrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/sculksensorrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Powdersnowrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "powdersnowrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/powdersnowrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Leatherrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leatherrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/leatherrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Bellrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bellrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/bellrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Cryingobsidian",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryingobsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/cryingobsidian.json"
+        ]
+      }
+    },
+    {
+      "name": "Glowlichenrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glowlichenrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/glowlichenrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Glowrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glowrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/glowrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sculkveinrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sculkveinrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/sculkveinrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Chanmailhelmetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chanmailhelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/chanmailhelmetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Chanmailchestplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chanmailchestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/chanmailchestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Chainmailleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmailleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/chainmailleggingsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Chainmailbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmailbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/chainmailbootsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Enchantedgoldenapplereciple",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedgoldenapplereciple",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/enchantedgoldenapplereciple.json"
+        ]
+      }
+    },
+    {
+      "name": "Endportalrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endportalrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/endportalrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Saddlerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saddlerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/saddlerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nametagrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nametagrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/nametagrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Spawnerrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnerrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/spawnerrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Flintrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flintrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/flintrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Ironhorsearmorrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironhorsearmorrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/ironhorsearmorrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Goldhorsearmorrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldhorsearmorrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/goldhorsearmorrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondhorsearmorrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondhorsearmorrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/diamondhorsearmorrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Experiencebottlerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "experiencebottlerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/experiencebottlerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Totemrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totemrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/totemrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Bundlerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bundlerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/bundlerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Spongerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spongerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/spongerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Beenestrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beenestrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/beenestrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Elytrawind",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elytrawing",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/elytrawing.json",
+          "src/main/java/recipes_plus/item/ElytrawindItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Elytawindrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elytawindrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/elytawindrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Cobwebrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobwebrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/cobwebrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sticktrident",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sticktrident",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/sticktrident.json",
+          "src/main/java/recipes_plus/item/SticktridentItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hearttrident",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hearttrident",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/HearttridentItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/hearttrident.json"
+        ]
+      }
+    },
+    {
+      "name": "Teethtrident",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teethtrident",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/teethtrident.json",
+          "src/main/java/recipes_plus/item/TeethtridentItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Tridentrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tridentrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/tridentrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Theethtridentrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theethtridentrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/theethtridentrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sticktridentrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sticktridentrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/sticktridentrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hearttridentrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hearttridentrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/hearttridentrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Grassblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grassblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/grassblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteupgradesmithingtemplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteupgradesmithingtemplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netherite_upgrade_smithing_templaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Marxxrecipesplus",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marxxrecipesplus",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Netheriteironingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironingot.json",
+          "src/main/java/recipes_plus/item/NetheriteironingotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironingotrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironingotrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironingotrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldingot.json",
+          "src/main/java/recipes_plus/item/NetheritegoldingotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldingotrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldingotrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldingotrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondingot",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritediamondingotItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldingot.json",
+          "src/main/java/recipes_plus/item/NetheriteemeraldingotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldingotrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldingotrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldingotrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondingotrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondingotrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondingotrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironsword",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteironswordItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironupgradesmithingtemplate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironupgradesmithingtemplate",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteironupgradesmithingtemplateItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironupgradesmithingtemplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironswordrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironswordrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironupgradesmithingtemplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironupgradesmithingtemplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironupgradesmithingtemplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironupgradesmithingtemplateduplicaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironupgradesmithingtemplateduplicaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironupgradesmithingtemplateduplicaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteironpickaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironpickaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironpickaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironaxe.json",
+          "src/main/java/recipes_plus/item/NetheriteironaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteironshovelItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironshovelrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironshovelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironshovelrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironhoe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteironhoeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironhoe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironhoerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironhoerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironhoerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/loot_tables/blocks/netheriteironblock.json",
+          "src/main/resources/assets/recipes_plus/models/block/netheriteironblock.json",
+          "src/main/java/recipes_plus/block/NetheriteironblockBlock.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteironblock.json",
+          "src/main/resources/assets/recipes_plus/blockstates/netheriteironblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldupgradesmithingtemplate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldupgradesmithingtemplate",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritegoldupgradesmithingtemplateItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldupgradesmithingtemplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldupgradesmithingtemplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldupgradesmithingtemplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldupgradesmithingtemplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldupgradesmithingtemplateduplicaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldupgradesmithingtemplateduplicaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldupgradesmithingtemplateduplicaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/block/netheritegoldblock.json",
+          "src/main/resources/data/recipes_plus/loot_tables/blocks/netheritegoldblock.json",
+          "src/main/resources/assets/recipes_plus/blockstates/netheritegoldblock.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldblock.json",
+          "src/main/java/recipes_plus/block/NetheritegoldblockBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldsword.json",
+          "src/main/java/recipes_plus/item/NetheritegoldswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldswordrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldswordrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritegoldpickaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldpickaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldpickaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritegoldaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritegoldshovelItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldshovelrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldshovelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldshovelrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldhoe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritegoldhoeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegoldhoe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldhoerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldhoerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldhoerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldupgradesmithingtemplate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldupgradesmithingtemplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldupgradesmithingtemplate.json",
+          "src/main/java/recipes_plus/item/NetheriteemeraldupgradesmithingtemplateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldupgradesmithingtemplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldupgradesmithingtemplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldupgradesmithingtemplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldupgradesmithingtemplateduplicaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldupgradesmithingtemplateduplicaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldupgradesmithingtemplateduplicaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/loot_tables/blocks/netheriteemeraldblock.json",
+          "src/main/resources/assets/recipes_plus/blockstates/netheriteemeraldblock.json",
+          "src/main/resources/assets/recipes_plus/models/block/netheriteemeraldblock.json",
+          "src/main/java/recipes_plus/block/NetheriteemeraldblockBlock.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldsword.json",
+          "src/main/java/recipes_plus/item/NetheriteemeraldswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldswordrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldswordrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteemeraldpickaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldpickaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldpickaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteemeraldaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteemeraldshovelItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldshovel.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldshovelrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldshovelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldshovelrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldhoe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteemeraldhoeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemeraldhoe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldhoerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldhoerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldhoerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondupgradesmithingtemplate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondupgradesmithingtemplate",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritediamondupgradesmithingtemplateItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondupgradesmithingtemplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondupgradesmithingtemplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondupgradesmithingtemplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondupgradesmithingtemplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondupgradesmithingtemplateduplicaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondupgradesmithingtemplateduplicaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondupgradesmithingtemplateduplicaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/block/netheritediamondblock.json",
+          "src/main/java/recipes_plus/block/NetheritediamondblockBlock.java",
+          "src/main/resources/assets/recipes_plus/blockstates/netheritediamondblock.json",
+          "src/main/resources/data/recipes_plus/loot_tables/blocks/netheritediamondblock.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondsword",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritediamondswordItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondswordrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondswordrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritediamondpickaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondpickaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondpickaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritediamondaxeItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondshovel.json",
+          "src/main/java/recipes_plus/item/NetheritediamondshovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondshovelrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondshovelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondshovelrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondhoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamondhoe.json",
+          "src/main/java/recipes_plus/item/NetheritediamondhoeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondhoerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondhoerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondhoerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteiron",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteiron",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteironItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteiron_boots.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteiron_helmet.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteiron_chestplate.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteiron_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironhelmetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironhelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironhelmetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironchestplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironchestplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironleggingsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteironbootsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegold",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegold",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheritegoldItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegold_helmet.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegold_leggings.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegold_boots.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritegold_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldhelmetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldhelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldhelmetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldchestplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldchestplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldleggingsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritegoldbootsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemerald",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemerald",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/NetheriteemeraldItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemerald_chestplate.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemerald_leggings.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemerald_helmet.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheriteemerald_boots.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldhelmetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldhelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldhelmetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldchestplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldchestplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldleggingsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheriteemeraldbootsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamond",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamond",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamond_chestplate.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamond_boots.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamond_leggings.json",
+          "src/main/resources/assets/recipes_plus/models/item/netheritediamond_helmet.json",
+          "src/main/java/recipes_plus/item/NetheritediamondItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondhelmetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondhelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondhelmetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondchestplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondchestplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondleggingsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/netheritediamondbootsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Coppernugget",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppernugget",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/item/CoppernuggetItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/coppernugget.json"
+        ]
+      }
+    },
+    {
+      "name": "Coppernuggetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppernuggetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/coppernuggetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperingotrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperingotrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperingotrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperarmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperarmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/copperarmor_leggings.json",
+          "src/main/resources/assets/recipes_plus/models/item/copperarmor_boots.json",
+          "src/main/resources/assets/recipes_plus/models/item/copperarmor_chestplate.json",
+          "src/main/java/recipes_plus/item/CopperarmorItem.java",
+          "src/main/resources/assets/recipes_plus/models/item/copperarmor_helmet.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperhelmetrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperhelmetrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperhelmetrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperchestplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperchestplaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperleggingsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperbootsrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Coppersword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppersword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/coppersword.json",
+          "src/main/java/recipes_plus/item/CopperswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Copperswordrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperswordrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/copperpickaxe.json",
+          "src/main/java/recipes_plus/item/CopperpickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Copperpickaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperpickaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/copperaxe.json",
+          "src/main/java/recipes_plus/item/CopperaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Copperaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperaxerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Coppershovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppershovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/coppershovel.json",
+          "src/main/java/recipes_plus/item/CoppershovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Coppershovelrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppershovelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/coppershovelrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperhoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/recipes_plus/models/item/copperhoe.json",
+          "src/main/java/recipes_plus/item/CopperhoeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Copperhoerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperhoerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/recipes/copperhoerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironarmor",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironarmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheriteironarmor.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldarmor",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldarmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheritegoldarmor.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldarmor",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldarmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheriteemeraldarmor.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondarmor",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondarmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheritediamondarmor.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironarmoreffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironarmoreffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheriteironarmoreffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldarmoreffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldarmoreffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheritegoldarmoreffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldarmoreffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldarmoreffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheriteemeraldarmoreffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondarmoreffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondarmoreffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheritediamondarmoreffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironingotadv",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironingotadv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheriteironingotadv.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironupgrade",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironupgrade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheriteironupgrade.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondblockadv",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondblockadv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheritediamondblockadv.json"
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondhoeadv",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondhoeadv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/recipes_plus/advancements/netheritediamondhoeadv.json"
+        ]
+      }
+    },
+    {
+      "name": "Checknetheriteironarmor",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "checknetheriteironarmor",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/ChecknetheriteironarmorProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Checknetheritegoldarmor",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "checknetheritegoldarmor",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/ChecknetheritegoldarmorProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Checknetheriteemeraldarmor",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "checknetheriteemeraldarmor",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/ChecknetheriteemeraldarmorProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Checknetheritediamondarmor",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "checknetheritediamondarmor",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/ChecknetheritediamondarmorProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironswordeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironswordeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheriteironswordeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteironpickaxeeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteironpickaxeeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheriteironpickaxeeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldswordeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldswordeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheritegoldswordeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheritegoldpickaxeeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritegoldpickaxeeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheritegoldpickaxeeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldswordeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldswordeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheriteemeraldswordeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteemeraldpickaxeeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteemeraldpickaxeeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheriteemeraldpickaxeeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondpickaxeeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondpickaxeeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheritediamondpickaxeeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheritediamondswordeffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondswordeffect",
+      "metadata": {
+        "files": [
+          "src/main/java/recipes_plus/procedures/NetheritediamondswordeffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Netheritediamondblock",
+      "~CUSTOM:Netheriteemeraldblock",
+      "~CUSTOM:Netheritegoldblock",
+      "~CUSTOM:Netheriteironblock"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Copperpickaxe",
+      "~CUSTOM:Netheritediamondpickaxe",
+      "~CUSTOM:Netheriteemeraldpickaxe",
+      "~CUSTOM:Netheritegoldpickaxe",
+      "~CUSTOM:Netheriteironpickaxe"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:Netheritegoldshovel",
+      "~CUSTOM:Coppershovel",
+      "~CUSTOM:Netheritediamondshovel",
+      "~CUSTOM:Netheriteemeraldshovel",
+      "~CUSTOM:Netheriteironshovel"
+    ],
+    "BLOCKS:minecraft:beacon_base_blocks": [
+      "CUSTOM:Netheriteironblock",
+      "CUSTOM:Netheritegoldblock",
+      "CUSTOM:Netheriteemeraldblock",
+      "CUSTOM:Netheritediamondblock"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Copperaxe",
+      "~CUSTOM:Netheritediamondaxe",
+      "~CUSTOM:Netheriteemeraldaxe",
+      "~CUSTOM:Netheritegoldaxe",
+      "~CUSTOM:Netheriteironaxe"
+    ],
+    "BLOCKS:minecraft:needs_diamond_tool": [
+      "~CUSTOM:Netheritediamondblock",
+      "~CUSTOM:Netheriteemeraldblock",
+      "~CUSTOM:Netheritegoldblock",
+      "~CUSTOM:Netheriteironblock"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:Copperhoe",
+      "~CUSTOM:Netheritediamondhoe",
+      "~CUSTOM:Netheriteemeraldhoe",
+      "~CUSTOM:Netheritegoldhoe",
+      "~CUSTOM:Netheriteironhoe"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Coppersword",
+      "~CUSTOM:Netheritediamondsword",
+      "~CUSTOM:Netheriteemeraldsword",
+      "~CUSTOM:Netheritegoldsword",
+      "~CUSTOM:Netheriteironsword"
+    ]
+  },
+  "tab_element_order": {
+    "CUSTOM:Marxxrecipesplus": [
+      "Elytrawind",
+      "Sticktrident",
+      "Hearttrident",
+      "Teethtrident",
+      "Coppernugget",
+      "Coppersword",
+      "Copperpickaxe",
+      "Copperaxe",
+      "Coppershovel",
+      "Copperhoe",
+      "Copperarmor",
+      "Netheriteironingot",
+      "Netheriteironupgradesmithingtemplate",
+      "Netheriteironsword",
+      "Netheriteironpickaxe",
+      "Netheriteironaxe",
+      "Netheriteironshovel",
+      "Netheriteironhoe",
+      "Netheriteiron",
+      "Netheriteironblock",
+      "Netheritegoldingot",
+      "Netheritegoldupgradesmithingtemplate",
+      "Netheritegoldsword",
+      "Netheritegoldpickaxe",
+      "Netheritegoldaxe",
+      "Netheritegoldshovel",
+      "Netheritegoldhoe",
+      "Netheritegold",
+      "Netheritegoldblock",
+      "Netheriteemeraldingot",
+      "Netheriteemeraldupgradesmithingtemplate",
+      "Netheriteemeraldsword",
+      "Netheriteemeraldpickaxe",
+      "Netheriteemeraldaxe",
+      "Netheriteemeraldshovel",
+      "Netheriteemeraldhoe",
+      "Netheriteemerald",
+      "Netheriteemeraldblock",
+      "Netheritediamondingot",
+      "Netheritediamondupgradesmithingtemplate",
+      "Netheritediamondsword",
+      "Netheritediamondpickaxe",
+      "Netheritediamondaxe",
+      "Netheritediamondshovel",
+      "Netheritediamondhoe",
+      "Netheritediamond",
+      "Netheritediamondblock"
+    ],
+    "MATERIALS": [
+      "Elytrawind",
+      "Sticktrident",
+      "Hearttrident",
+      "Teethtrident",
+      "Coppernugget",
+      "Netheriteironingot",
+      "Netheritegoldingot",
+      "Netheriteemeraldingot",
+      "Netheritediamondingot",
+      "Netheriteironupgradesmithingtemplate",
+      "Netheritegoldupgradesmithingtemplate",
+      "Netheriteemeraldupgradesmithingtemplate",
+      "Netheritediamondupgradesmithingtemplate"
+    ],
+    "COMBAT": [
+      "Coppersword",
+      "Copperarmor",
+      "Netheriteironsword",
+      "Netheriteiron",
+      "Netheritegoldsword",
+      "Netheritegold",
+      "Netheriteemeraldsword",
+      "Netheriteemerald",
+      "Netheritediamondsword",
+      "Netheritediamond"
+    ],
+    "TOOLS": [
+      "Copperpickaxe",
+      "Copperaxe",
+      "Coppershovel",
+      "Copperhoe",
+      "Netheriteironpickaxe",
+      "Netheriteironaxe",
+      "Netheriteironshovel",
+      "Netheriteironhoe",
+      "Netheritegoldpickaxe",
+      "Netheritegoldaxe",
+      "Netheritegoldshovel",
+      "Netheritegoldhoe",
+      "Netheriteemeraldpickaxe",
+      "Netheriteemeraldaxe",
+      "Netheriteemeraldshovel",
+      "Netheriteemeraldhoe",
+      "Netheritediamondpickaxe",
+      "Netheritediamondaxe",
+      "Netheritediamondshovel",
+      "Netheritediamondhoe"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_5": "§9 Netherite and Gold Ingot",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_4": "§7Ingredients:",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_3": "§9 Netherite and Iron Equipament",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_2": "§7Applies to:",
+      "item.recipes_plus.netheritediamond_chestplate": "Netherite and Diamond Chestplate",
+      "item.recipes_plus.netheritegoldaxe": "Netherite and Gold Axe",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_0": "§7Netherite and Gold Upgrade",
+      "advancements.netheritediamondarmor.title": "The perfect combination",
+      "item.recipes_plus.netheriteemerald_boots": "Netherite and Emerald Boots",
+      "block.recipes_plus.netheritegoldblock": "Block of Netherite and Gold",
+      "item.recipes_plus.netheriteemerald_leggings": "Netherite and Emerald Leggings",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate": "Iron Smithing Template",
+      "item.recipes_plus.netheritegoldpickaxe": "Netherite and Gold Pickaxe",
+      "item.recipes_plus.netheriteiron_boots.description_0": "§8Fire resistance",
+      "block.recipes_plus.netheriteemeraldblock": "Block of Netherite and Emerald",
+      "item.recipes_plus.netheriteemerald_helmet": "Netherite and Emerald Helmet",
+      "item.recipes_plus.netheriteemeraldingot": "Netherite and Emerald Ingot",
+      "item.recipes_plus.netheritediamondsword.description_0": "§bWhen the enemy has 30% health or less, the attack deals +6 additional damage",
+      "item.recipes_plus.netheriteiron_leggings.description_0": "§8Fire resistance",
+      "advancements.netheriteironingotadv.descr": "Craft your first netherite and iron ingot",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate": "Emerald Smithing Template",
+      "item.recipes_plus.netheritegold_boots": "Netherite and Gold Boots",
+      "item.recipes_plus.coppersword": "Copper Sword",
+      "item.recipes_plus.netheritegoldhoe": "Netherite and Gold Hoe",
+      "item.recipes_plus.netheriteiron_helmet.description_0": "§8Fire resistance",
+      "advancements.netheritegoldarmor.title": "Netherite and piglin distraction at the same time?",
+      "item.recipes_plus.netheriteemerald_leggings.description_0": "§aHero of the village",
+      "item.recipes_plus.netheriteemeraldaxe": "Netherite and Emerald Axe",
+      "advancements.netheriteironupgrade.title": "Improved netherite",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_5": "§9 Netherite and Iron Ingot",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_3": "§9 Netherite Equipament",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_4": "§7Ingredients:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_2": "§7Applies to:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_0": "§7Netherite and Iron Upgrade",
+      "advancements.netheritediamondhoeadv.descr": "Obtain the Netherite and diamond hoe",
+      "item.recipes_plus.netheritediamondaxe": "Netherite and Diamond Axe",
+      "item.recipes_plus.netheriteemeraldsword": "Netherite and Emerald Sword",
+      "item.recipes_plus.netheritediamond_leggings": "Netherite and Diamond Leggings",
+      "item.recipes_plus.netheriteemeraldhoe": "Netherite and Emerald Hoe",
+      "item.recipes_plus.hearttrident": "Trident Heart",
+      "item.recipes_plus.netheriteironingot": "Netherite and Iron Ingot",
+      "item.recipes_plus.copperarmor_helmet": "Copper Helmet",
+      "advancements.netheritediamondblockadv.title": "Maximum tier",
+      "item.recipes_plus.coppernugget": "Copper Nugget",
+      "advancements.netheritediamondhoeadv.title": "I\u0027m crazy",
+      "item.recipes_plus.netheritediamondsword": "Netherite and Diamond Sword",
+      "advancements.netheriteironarmor.descr": "Obtain the entire set of netherite and iron armor",
+      "item.recipes_plus.netheriteironpickaxe.description_0": "§825% chance of not using durability",
+      "item.recipes_plus.netheriteemeraldpickaxe.description_0": "§a15% chance of dropping extra minerals from ores",
+      "item.recipes_plus.netheritediamond_helmet": "Netherite and Diamond Helmet",
+      "advancements.netheriteemeraldarmor.descr": "Obtain the entire set of netherite and emerald armor",
+      "item.recipes_plus.netheritediamond_helmet.description_2": "§bStrength",
+      "item.recipes_plus.elytrawing": "Elytra Wing",
+      "item.recipes_plus.netheritediamond_helmet.description_1": "§bResistance",
+      "block.recipes_plus.netheriteironblock": "Block of Netherite and Iron",
+      "item.recipes_plus.netheritediamond_helmet.description_0": "§bSpeed",
+      "item.recipes_plus.netheriteironshovel": "Netherite and Iron Shovel",
+      "advancements.netheritediamondblockadv.descr": "Craft your first block of netherite and diamond",
+      "item.recipes_plus.netheritegold_helmet": "Netherite and Gold Helmet",
+      "item.recipes_plus.netheritegoldsword.description_0": "§620% chance of critical hit, critical hit +4 additional damage",
+      "advancements.netheriteironupgrade.descr": "Craft your first Iron Smithing Template",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate": "Gold Smithing Template",
+      "item.recipes_plus.netheritediamondpickaxe.description_0": "§bAutomatically melts the blocks",
+      "item.recipes_plus.netheriteironhoe": "Netherite and Iron Hoe",
+      "item.recipes_plus.netheritegoldshovel": "Netherite and Gold Shovel",
+      "item.recipes_plus.copperarmor_leggings": "Copper Leggings",
+      "block.recipes_plus.netheritediamondblock": "Block of Netherite and Diamond",
+      "item.recipes_plus.netheritediamond_boots.description_2": "§bStrength",
+      "item.recipes_plus.netheriteironaxe": "Netherite and Iron Axe",
+      "item.recipes_plus.netheriteironsword.description_0": "§810% chance of slowness II to the enemy",
+      "item.recipes_plus.netheritediamond_boots.description_1": "§bResistance",
+      "item.recipes_plus.netheriteironsword": "Netherite and Iron Sword",
+      "item.recipes_plus.netheritediamond_boots.description_0": "§bSpeed",
+      "item.recipes_plus.netheritediamondingot": "Netherite and Diamond Ingot",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate": "Diamond Smithing Template",
+      "advancements.netheriteironarmor.title": "Cover me in netherite and... iron?!",
+      "item.recipes_plus.netheritediamondhoe": "Netherite and Diamond Hoe",
+      "item.recipes_plus.netheriteiron_helmet": "Netherite and Iron Helmet",
+      "item.recipes_plus.netheriteemerald_chestplate": "Netherite and Emerald Chestplate",
+      "item.recipes_plus.netheriteemerald_chestplate.description_0": "§aHero of the village",
+      "item.recipes_plus.copperarmor_chestplate": "Copperar Chestplate",
+      "item.recipes_plus.netheritegold_chestplate": "Netherite and Gold Chestplate",
+      "item.recipes_plus.netheriteiron_boots": "Netherite and Iron Boots",
+      "item.recipes_plus.netheritediamond_chestplate.description_2": "§bStrength",
+      "item.recipes_plus.netheritediamond_chestplate.description_0": "§bSpeed",
+      "item.recipes_plus.netheritediamond_chestplate.description_1": "§bResistance",
+      "item.recipes_plus.sticktrident": "Trident Stick",
+      "item.recipes_plus.netheritediamondshovel": "Netherite and Diamond Shovel",
+      "item.recipes_plus.copperarmor_boots": "Copper Boots",
+      "item.recipes_plus.teethtrident": "Trident Teeth",
+      "advancements.netheriteemeraldarmor.title": "Now the villagers will love me",
+      "advancements.netheritediamondarmor.descr": "Obtain the entire set of netherite and diamond armor",
+      "item.recipes_plus.netheriteiron_leggings": "Netherite and Iron Leggings",
+      "item.recipes_plus.netheriteemerald_helmet.description_0": "§aHero of the village",
+      "item.recipes_plus.copperaxe": "Copper Axe",
+      "item.recipes_plus.netheritediamondpickaxe": "Netherite and Diamond Pickaxe",
+      "item.recipes_plus.netheritegoldpickaxe.description_0": "§65% chance of XP and dropping material nuggets when breaking blocks",
+      "item.recipes_plus.netheritegoldpickaxe.description_1": "§61% chance of more XP and dropping diamonds when breaking blocks",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_5": "§9 Netherite and Diamond Ingot",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_4": "§7Ingredients:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_3": "§9 Netherite and Emerald Equipament",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_2": "§7Applies to:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_1": "",
+      "item_group.recipes_plus.marxxrecipesplus": "Marxx\u0027s Recipes Plus",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_0": "§7Netherite and Diamond Upgrade",
+      "item.recipes_plus.netheritegoldsword": "Netherite and Gold Sword",
+      "item.recipes_plus.netheritegold_chestplate.description_3": "§6Night vision",
+      "item.recipes_plus.netheritegold_boots.description_3": "§6Night vision",
+      "item.recipes_plus.netheritegold_chestplate.description_2": "§6Luck",
+      "item.recipes_plus.netheritegold_boots.description_2": "§6Luck",
+      "item.recipes_plus.netheritegold_chestplate.description_1": "§6Mining rush",
+      "item.recipes_plus.netheritegold_boots.description_1": "§6Mining rush",
+      "item.recipes_plus.netheritegold_chestplate.description_0": "§6Passive piglins",
+      "item.recipes_plus.netheritegold_boots.description_0": "§6Passive piglins",
+      "item.recipes_plus.netheritegoldingot": "Netherite and Gold Ingot",
+      "item.recipes_plus.netheriteemeraldshovel": "Netherite and Emerald Shovel",
+      "item.recipes_plus.netheritegold_leggings.description_2": "§6Luck",
+      "item.recipes_plus.netheritediamond_leggings.description_1": "§bResistance",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_0": "§7Netherite and Emerald Upgrade",
+      "item.recipes_plus.netheritegold_leggings.description_1": "§6Mining rush",
+      "item.recipes_plus.netheritediamond_leggings.description_2": "§bStrength",
+      "item.recipes_plus.netheritegold_leggings.description_0": "§6Passive piglins",
+      "item.recipes_plus.netheriteiron_chestplate.description_0": "§8Fire resistance",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_3": "§9 Netherite and Gold Equipament",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_4": "§7Ingredients:",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_2": "§7Applies to:",
+      "item.recipes_plus.netheritegold_helmet.description_3": "§6Night vision",
+      "item.recipes_plus.netheritegold_helmet.description_2": "§6Luck",
+      "item.recipes_plus.netheritegold_helmet.description_1": "§6Mining rush",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_5": "§9 Netherite and Emerald Ingot",
+      "item.recipes_plus.netheritegold_helmet.description_0": "§6Passive piglins",
+      "item.recipes_plus.copperhoe": "Copper Hoe",
+      "advancements.netheriteironingotadv.title": "Beyond netherite",
+      "item.recipes_plus.netheritegold_leggings.description_3": "§6Night vision",
+      "item.recipes_plus.netheritediamond_leggings.description_0": "§bSpeed",
+      "item.recipes_plus.netheritediamond_boots": "Netherite and Diamond Boots",
+      "item.recipes_plus.netheriteemeraldpickaxe": "Netherite and Emerald Pickaxe",
+      "item.recipes_plus.copperpickaxe": "Copper Pickaxe",
+      "item.recipes_plus.coppershovel": "Copper Shovel",
+      "item.recipes_plus.netheriteironpickaxe": "Netherite and Iron Pickaxe",
+      "item.recipes_plus.netheriteemeraldsword.description_0": "§a10% chance of your health being completely cured",
+      "item.recipes_plus.netheriteemerald_boots.description_0": "§aHero of the village",
+      "item.recipes_plus.netheritegold_leggings": "Netherite and Gold Leggings",
+      "advancements.netheritegoldarmor.descr": "Obtain the entire set of netherite and gold armor",
+      "item.recipes_plus.netheriteiron_chestplate": "Netherite and Iron Chestplate"
+    },
+    "es_ar": {
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritediamond_chestplate": "Peto de netherita y diamante",
+      "item.recipes_plus.netheritegoldaxe": "Hacha de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_0": "§7Mejora de netherita y oro",
+      "advancements.netheritediamondarmor.title": "La combinación perfecta",
+      "item.recipes_plus.netheriteemerald_boots": "Botas de netherita y esmeralda",
+      "block.recipes_plus.netheritegoldblock": "Bloque de netherita y oro",
+      "item.recipes_plus.netheriteemerald_leggings": "Grebas de nethertia y esmeralda",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate": "Molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldpickaxe": "Pico de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots.description_0": "§8Resistencia al fuego",
+      "block.recipes_plus.netheriteemeraldblock": "Bloque de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_helmet": "Casco de netherita y esmeralda",
+      "item.recipes_plus.netheriteemeraldingot": "Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondsword.description_0": "§bCuando el enemigo tiene 30% de salud o menos, el ataque inflige +6 de daño adicional",
+      "item.recipes_plus.netheriteiron_leggings.description_0": "§8Resistencia al fuego",
+      "advancements.netheriteironingotadv.descr": "Crea tu primer lingote de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate": "Molde de herrería de esmeralda",
+      "item.recipes_plus.netheritegold_boots": "Botas de netherita y oro",
+      "item.recipes_plus.coppersword": "Espada de cobre",
+      "item.recipes_plus.netheritegoldhoe": "Azada de netherita y oro",
+      "item.recipes_plus.netheriteiron_helmet.description_0": "§8Resistencia al fuego",
+      "advancements.netheritegoldarmor.title": "¿Netherita y distraer a los piglins a la vez?",
+      "item.recipes_plus.netheriteemerald_leggings.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheriteemeraldaxe": "Hacha de netherita y esmeralda",
+      "advancements.netheriteironupgrade.title": "Netherita mejorada",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_5": "§9 Lingote de netherita y hierro",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_0": "§7Mejora de netherita y hierro",
+      "advancements.netheritediamondhoeadv.descr": "Obtén la azada de netherita y diamante",
+      "item.recipes_plus.netheritediamondaxe": "Hacha de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldsword": "Espada de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_leggings": "Grebas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldhoe": "Azada de netherita y esmeralda",
+      "item.recipes_plus.hearttrident": "Corazón de tridente",
+      "item.recipes_plus.netheriteironingot": "Lingote de netherita y hierro",
+      "item.recipes_plus.copperarmor_helmet": "Casco de cobre",
+      "advancements.netheritediamondblockadv.title": "Nivel máximo",
+      "item.recipes_plus.coppernugget": "Pepita de cobre",
+      "advancements.netheritediamondhoeadv.title": "Sobradísimo",
+      "item.recipes_plus.netheritediamondsword": "Espada de netherita y diamante",
+      "advancements.netheriteironarmor.descr": "Obtén el set completo de armadura de netherita y hierro",
+      "item.recipes_plus.netheriteironpickaxe.description_0": "§825% de probabilidad de no usar durabilidad",
+      "item.recipes_plus.netheriteemeraldpickaxe.description_0": "§a15% de probabilidad de obtener minerales adicionales de las menas",
+      "item.recipes_plus.netheritediamond_helmet": "Casco de netherita y diamante",
+      "advancements.netheriteemeraldarmor.descr": "Obtén el set completo de armadura de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_helmet.description_2": "§bFuerza",
+      "item.recipes_plus.elytrawing": "Ala de elytra",
+      "item.recipes_plus.netheritediamond_helmet.description_1": "§bResistencia",
+      "block.recipes_plus.netheriteironblock": "Bloque de netherita y hierro",
+      "item.recipes_plus.netheritediamond_helmet.description_0": "§bVelocidad",
+      "item.recipes_plus.netheriteironshovel": "Pala de netherita y hierro",
+      "advancements.netheritediamondblockadv.descr": "Crea tu primer bloque de netherita y diamante",
+      "item.recipes_plus.netheritegold_helmet": "Casco de netherita y oro",
+      "item.recipes_plus.netheritegoldsword.description_0": "§620% de probabilidad de golpe crítico, golpe crítico +4 de daño adicional",
+      "advancements.netheriteironupgrade.descr": "Crea tu primer molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate": "Molde de herrería de oro",
+      "item.recipes_plus.netheritediamondpickaxe.description_0": "§bFunde automaticamente los bloques",
+      "item.recipes_plus.netheriteironhoe": "Azada de netherita y hierro",
+      "item.recipes_plus.netheritegoldshovel": "Pala de netherita y oro",
+      "item.recipes_plus.copperarmor_leggings": "Grebas de cobre",
+      "block.recipes_plus.netheritediamondblock": "Bloque de netherita y diamante",
+      "item.recipes_plus.netheritediamond_boots.description_2": "§bFuerza",
+      "item.recipes_plus.netheriteironaxe": "Hacha de netherita y hierro",
+      "item.recipes_plus.netheriteironsword.description_0": "§810% de probabilidad de lentitud II para el enemigo",
+      "item.recipes_plus.netheritediamond_boots.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteironsword": "Espada de netherita y hierro",
+      "item.recipes_plus.netheritediamond_boots.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamondingot": "Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate": "Molde de herrería de diamante",
+      "advancements.netheriteironarmor.title": "¡¿Cúbreme de netherita y... hierro?!",
+      "item.recipes_plus.netheritediamondhoe": "Azada de netherita y diamante",
+      "item.recipes_plus.netheriteiron_helmet": "Casco de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_chestplate": "Peto de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_chestplate.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperarmor_chestplate": "Peto de cobre",
+      "item.recipes_plus.netheritegold_chestplate": "Peto de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots": "Botas de netherita y Hierro",
+      "item.recipes_plus.netheritediamond_chestplate.description_2": "§bFuerza",
+      "item.recipes_plus.netheritediamond_chestplate.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_chestplate.description_1": "§bResistencia",
+      "item.recipes_plus.sticktrident": "Mango de tridente",
+      "item.recipes_plus.netheritediamondshovel": "Pala de netherita y diamante",
+      "item.recipes_plus.copperarmor_boots": "Botas de cobre",
+      "item.recipes_plus.teethtrident": "Dientes de tridente",
+      "advancements.netheriteemeraldarmor.title": "Ahora los aldeanos me amarán",
+      "advancements.netheritediamondarmor.descr": "Obtén el set completo de armadura de netherita y diamante",
+      "item.recipes_plus.netheriteiron_leggings": "Grebas de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_helmet.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperaxe": "Hacha de cobre",
+      "item.recipes_plus.netheritediamondpickaxe": "Pico de netherita y diamante",
+      "item.recipes_plus.netheritegoldpickaxe.description_0": "§65% de probabilidad de obtener XP y dejar caer pepitas al romper bloques",
+      "item.recipes_plus.netheritegoldpickaxe.description_1": "§61% de probabilidad de obtener más XP y obtener diamantes al romper bloques",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_5": "§9 Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_1": "",
+      "item_group.recipes_plus.marxxrecipesplus": "Marxx\u0027s Recipes Plus",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_0": "§7Mejora de netherita y diamante",
+      "item.recipes_plus.netheritegoldsword": "Espada de netherita y oro",
+      "item.recipes_plus.netheritegold_chestplate.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_boots.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_chestplate.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_boots.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_chestplate.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_boots.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_chestplate.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegold_boots.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegoldingot": "Lingote de netherita y oro",
+      "item.recipes_plus.netheriteemeraldshovel": "Pala de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_2": "§6Suerte",
+      "item.recipes_plus.netheritediamond_leggings.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_0": "§7Mejora de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritediamond_leggings.description_2": "§bFuerza",
+      "item.recipes_plus.netheritegold_leggings.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheriteiron_chestplate.description_0": "§8Resistencia al fuego",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y oro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritegold_helmet.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_helmet.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_helmet.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_helmet.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.copperhoe": "Azada de cobre",
+      "advancements.netheriteironingotadv.title": "Más allá de la netherita",
+      "item.recipes_plus.netheritegold_leggings.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritediamond_leggings.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_boots": "Botas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldpickaxe": "Pico de netherita y esmeralda",
+      "item.recipes_plus.copperpickaxe": "Pico de cobre",
+      "item.recipes_plus.coppershovel": "Pala de cobre",
+      "item.recipes_plus.netheriteironpickaxe": "Pico de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldsword.description_0": "§a10% de posibilidades de que tu salud se cure por completo",
+      "item.recipes_plus.netheriteemerald_boots.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheritegold_leggings": "Grebas de netherita y oro",
+      "advancements.netheritegoldarmor.descr": "Obtén el set completo de armadura de netherita y oro",
+      "item.recipes_plus.netheriteiron_chestplate": "Peto de netherita y hierro"
+    },
+    "es_mx": {
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritediamond_chestplate": "Peto de netherita y diamante",
+      "item.recipes_plus.netheritegoldaxe": "Hacha de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_0": "§7Mejora de netherita y oro",
+      "advancements.netheritediamondarmor.title": "La combinación perfecta",
+      "item.recipes_plus.netheriteemerald_boots": "Botas de netherita y esmeralda",
+      "block.recipes_plus.netheritegoldblock": "Bloque de netherita y oro",
+      "item.recipes_plus.netheriteemerald_leggings": "Grebas de nethertia y esmeralda",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate": "Molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldpickaxe": "Pico de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots.description_0": "§8Resistencia al fuego",
+      "block.recipes_plus.netheriteemeraldblock": "Bloque de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_helmet": "Casco de netherita y esmeralda",
+      "item.recipes_plus.netheriteemeraldingot": "Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondsword.description_0": "§bCuando el enemigo tiene 30% de salud o menos, el ataque inflige +6 de daño adicional",
+      "item.recipes_plus.netheriteiron_leggings.description_0": "§8Resistencia al fuego",
+      "advancements.netheriteironingotadv.descr": "Crea tu primer lingote de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate": "Molde de herrería de esmeralda",
+      "item.recipes_plus.netheritegold_boots": "Botas de netherita y oro",
+      "item.recipes_plus.coppersword": "Espada de cobre",
+      "item.recipes_plus.netheritegoldhoe": "Azada de netherita y oro",
+      "item.recipes_plus.netheriteiron_helmet.description_0": "§8Resistencia al fuego",
+      "advancements.netheritegoldarmor.title": "¿Netherita y distraer a los piglins a la vez?",
+      "item.recipes_plus.netheriteemerald_leggings.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheriteemeraldaxe": "Hacha de netherita y esmeralda",
+      "advancements.netheriteironupgrade.title": "Netherita mejorada",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_5": "§9 Lingote de netherita y hierro",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_0": "§7Mejora de netherita y hierro",
+      "advancements.netheritediamondhoeadv.descr": "Obtén la azada de netherita y diamante",
+      "item.recipes_plus.netheritediamondaxe": "Hacha de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldsword": "Espada de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_leggings": "Grebas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldhoe": "Azada de netherita y esmeralda",
+      "item.recipes_plus.hearttrident": "Corazón de tridente",
+      "item.recipes_plus.netheriteironingot": "Lingote de netherita y hierro",
+      "item.recipes_plus.copperarmor_helmet": "Casco de cobre",
+      "advancements.netheritediamondblockadv.title": "Nivel máximo",
+      "item.recipes_plus.coppernugget": "Pepita de cobre",
+      "advancements.netheritediamondhoeadv.title": "Sobradísimo",
+      "item.recipes_plus.netheritediamondsword": "Espada de netherita y diamante",
+      "advancements.netheriteironarmor.descr": "Obtén el set completo de armadura de netherita y hierro",
+      "item.recipes_plus.netheriteironpickaxe.description_0": "§825% de probabilidad de no usar durabilidad",
+      "item.recipes_plus.netheriteemeraldpickaxe.description_0": "§a15% de probabilidad de obtener minerales adicionales de las menas",
+      "item.recipes_plus.netheritediamond_helmet": "Casco de netherita y diamante",
+      "advancements.netheriteemeraldarmor.descr": "Obtén el set completo de armadura de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_helmet.description_2": "§bFuerza",
+      "item.recipes_plus.elytrawing": "Ala de elytra",
+      "item.recipes_plus.netheritediamond_helmet.description_1": "§bResistencia",
+      "block.recipes_plus.netheriteironblock": "Bloque de netherita y hierro",
+      "item.recipes_plus.netheritediamond_helmet.description_0": "§bVelocidad",
+      "item.recipes_plus.netheriteironshovel": "Pala de netherita y hierro",
+      "advancements.netheritediamondblockadv.descr": "Crea tu primer bloque de netherita y diamante",
+      "item.recipes_plus.netheritegold_helmet": "Casco de netherita y oro",
+      "item.recipes_plus.netheritegoldsword.description_0": "§620% de probabilidad de golpe crítico, golpe crítico +4 de daño adicional",
+      "advancements.netheriteironupgrade.descr": "Crea tu primer molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate": "Molde de herrería de oro",
+      "item.recipes_plus.netheritediamondpickaxe.description_0": "§bFunde automaticamente los bloques",
+      "item.recipes_plus.netheriteironhoe": "Azada de netherita y hierro",
+      "item.recipes_plus.netheritegoldshovel": "Pala de netherita y oro",
+      "item.recipes_plus.copperarmor_leggings": "Grebas de cobre",
+      "block.recipes_plus.netheritediamondblock": "Bloque de netherita y diamante",
+      "item.recipes_plus.netheritediamond_boots.description_2": "§bFuerza",
+      "item.recipes_plus.netheriteironaxe": "Hacha de netherita y hierro",
+      "item.recipes_plus.netheriteironsword.description_0": "§810% de probabilidad de lentitud II para el enemigo",
+      "item.recipes_plus.netheritediamond_boots.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteironsword": "Espada de netherita y hierro",
+      "item.recipes_plus.netheritediamond_boots.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamondingot": "Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate": "Molde de herrería de diamante",
+      "advancements.netheriteironarmor.title": "¡¿Cúbreme de netherita y... hierro?!",
+      "item.recipes_plus.netheritediamondhoe": "Azada de netherita y diamante",
+      "item.recipes_plus.netheriteiron_helmet": "Casco de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_chestplate": "Peto de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_chestplate.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperarmor_chestplate": "Peto de cobre",
+      "item.recipes_plus.netheritegold_chestplate": "Peto de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots": "Botas de netherita y Hierro",
+      "item.recipes_plus.netheritediamond_chestplate.description_2": "§bFuerza",
+      "item.recipes_plus.netheritediamond_chestplate.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_chestplate.description_1": "§bResistencia",
+      "item.recipes_plus.sticktrident": "Mango de tridente",
+      "item.recipes_plus.netheritediamondshovel": "Pala de netherita y diamante",
+      "item.recipes_plus.copperarmor_boots": "Botas de cobre",
+      "item.recipes_plus.teethtrident": "Dientes de tridente",
+      "advancements.netheriteemeraldarmor.title": "Ahora los aldeanos me amarán",
+      "advancements.netheritediamondarmor.descr": "Obtén el set completo de armadura de netherita y diamante",
+      "item.recipes_plus.netheriteiron_leggings": "Grebas de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_helmet.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperaxe": "Hacha de cobre",
+      "item.recipes_plus.netheritediamondpickaxe": "Pico de netherita y diamante",
+      "item.recipes_plus.netheritegoldpickaxe.description_0": "§65% de probabilidad de obtener XP y dejar caer pepitas al romper bloques",
+      "item.recipes_plus.netheritegoldpickaxe.description_1": "§61% de probabilidad de obtener más XP y obtener diamantes al romper bloques",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_5": "§9 Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_1": "",
+      "item_group.recipes_plus.marxxrecipesplus": "Marxx\u0027s Recipes Plus",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_0": "§7Mejora de netherita y diamante",
+      "item.recipes_plus.netheritegoldsword": "Espada de netherita y oro",
+      "item.recipes_plus.netheritegold_chestplate.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_boots.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_chestplate.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_boots.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_chestplate.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_boots.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_chestplate.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegold_boots.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegoldingot": "Lingote de netherita y oro",
+      "item.recipes_plus.netheriteemeraldshovel": "Pala de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_2": "§6Suerte",
+      "item.recipes_plus.netheritediamond_leggings.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_0": "§7Mejora de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritediamond_leggings.description_2": "§bFuerza",
+      "item.recipes_plus.netheritegold_leggings.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheriteiron_chestplate.description_0": "§8Resistencia al fuego",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y oro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritegold_helmet.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_helmet.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_helmet.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_helmet.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.copperhoe": "Azada de cobre",
+      "advancements.netheriteironingotadv.title": "Más allá de la netherita",
+      "item.recipes_plus.netheritegold_leggings.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritediamond_leggings.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_boots": "Botas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldpickaxe": "Pico de netherita y esmeralda",
+      "item.recipes_plus.copperpickaxe": "Pico de cobre",
+      "item.recipes_plus.coppershovel": "Pala de cobre",
+      "item.recipes_plus.netheriteironpickaxe": "Pico de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldsword.description_0": "§a10% de posibilidades de que tu salud se cure por completo",
+      "item.recipes_plus.netheriteemerald_boots.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheritegold_leggings": "Grebas de netherita y oro",
+      "advancements.netheritegoldarmor.descr": "Obtén el set completo de armadura de netherita y oro",
+      "item.recipes_plus.netheriteiron_chestplate": "Peto de netherita y hierro"
+    },
+    "es_co": {
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritediamond_chestplate": "Peto de netherita y diamante",
+      "item.recipes_plus.netheritegoldaxe": "Hacha de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_0": "§7Mejora de netherita y oro",
+      "advancements.netheritediamondarmor.title": "La combinación perfecta",
+      "item.recipes_plus.netheriteemerald_boots": "Botas de netherita y esmeralda",
+      "block.recipes_plus.netheritegoldblock": "Bloque de netherita y oro",
+      "item.recipes_plus.netheriteemerald_leggings": "Grebas de nethertia y esmeralda",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate": "Molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldpickaxe": "Pico de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots.description_0": "§8Resistencia al fuego",
+      "block.recipes_plus.netheriteemeraldblock": "Bloque de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_helmet": "Casco de netherita y esmeralda",
+      "item.recipes_plus.netheriteemeraldingot": "Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondsword.description_0": "§bCuando el enemigo tiene 30% de salud o menos, el ataque inflige +6 de daño adicional",
+      "item.recipes_plus.netheriteiron_leggings.description_0": "§8Resistencia al fuego",
+      "advancements.netheriteironingotadv.descr": "Crea tu primer lingote de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate": "Molde de herrería de esmeralda",
+      "item.recipes_plus.netheritegold_boots": "Botas de netherita y oro",
+      "item.recipes_plus.coppersword": "Espada de cobre",
+      "item.recipes_plus.netheritegoldhoe": "Azada de netherita y oro",
+      "item.recipes_plus.netheriteiron_helmet.description_0": "§8Resistencia al fuego",
+      "advancements.netheritegoldarmor.title": "¿Netherita y distraer a los piglins a la vez?",
+      "item.recipes_plus.netheriteemerald_leggings.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheriteemeraldaxe": "Hacha de netherita y esmeralda",
+      "advancements.netheriteironupgrade.title": "Netherita mejorada",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_5": "§9 Lingote de netherita y hierro",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_0": "§7Mejora de netherita y hierro",
+      "advancements.netheritediamondhoeadv.descr": "Obtén la azada de netherita y diamante",
+      "item.recipes_plus.netheritediamondaxe": "Hacha de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldsword": "Espada de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_leggings": "Grebas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldhoe": "Azada de netherita y esmeralda",
+      "item.recipes_plus.hearttrident": "Corazón de tridente",
+      "item.recipes_plus.netheriteironingot": "Lingote de netherita y hierro",
+      "item.recipes_plus.copperarmor_helmet": "Casco de cobre",
+      "advancements.netheritediamondblockadv.title": "Nivel máximo",
+      "item.recipes_plus.coppernugget": "Pepita de cobre",
+      "advancements.netheritediamondhoeadv.title": "Sobradísimo",
+      "item.recipes_plus.netheritediamondsword": "Espada de netherita y diamante",
+      "advancements.netheriteironarmor.descr": "Obtén el set completo de armadura de netherita y hierro",
+      "item.recipes_plus.netheriteironpickaxe.description_0": "§825% de probabilidad de no usar durabilidad",
+      "item.recipes_plus.netheriteemeraldpickaxe.description_0": "§a15% de probabilidad de obtener minerales adicionales de las menas",
+      "item.recipes_plus.netheritediamond_helmet": "Casco de netherita y diamante",
+      "advancements.netheriteemeraldarmor.descr": "Obtén el set completo de armadura de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_helmet.description_2": "§bFuerza",
+      "item.recipes_plus.elytrawing": "Ala de elytra",
+      "item.recipes_plus.netheritediamond_helmet.description_1": "§bResistencia",
+      "block.recipes_plus.netheriteironblock": "Bloque de netherita y hierro",
+      "item.recipes_plus.netheritediamond_helmet.description_0": "§bVelocidad",
+      "item.recipes_plus.netheriteironshovel": "Pala de netherita y hierro",
+      "advancements.netheritediamondblockadv.descr": "Crea tu primer bloque de netherita y diamante",
+      "item.recipes_plus.netheritegold_helmet": "Casco de netherita y oro",
+      "item.recipes_plus.netheritegoldsword.description_0": "§620% de probabilidad de golpe crítico, golpe crítico +4 de daño adicional",
+      "advancements.netheriteironupgrade.descr": "Crea tu primer molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate": "Molde de herrería de oro",
+      "item.recipes_plus.netheritediamondpickaxe.description_0": "§bFunde automaticamente los bloques",
+      "item.recipes_plus.netheriteironhoe": "Azada de netherita y hierro",
+      "item.recipes_plus.netheritegoldshovel": "Pala de netherita y oro",
+      "item.recipes_plus.copperarmor_leggings": "Grebas de cobre",
+      "block.recipes_plus.netheritediamondblock": "Bloque de netherita y diamante",
+      "item.recipes_plus.netheritediamond_boots.description_2": "§bFuerza",
+      "item.recipes_plus.netheriteironaxe": "Hacha de netherita y hierro",
+      "item.recipes_plus.netheriteironsword.description_0": "§810% de probabilidad de lentitud II para el enemigo",
+      "item.recipes_plus.netheritediamond_boots.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteironsword": "Espada de netherita y hierro",
+      "item.recipes_plus.netheritediamond_boots.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamondingot": "Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate": "Molde de herrería de diamante",
+      "advancements.netheriteironarmor.title": "¡¿Cúbreme de netherita y... hierro?!",
+      "item.recipes_plus.netheritediamondhoe": "Azada de netherita y diamante",
+      "item.recipes_plus.netheriteiron_helmet": "Casco de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_chestplate": "Peto de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_chestplate.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperarmor_chestplate": "Peto de cobre",
+      "item.recipes_plus.netheritegold_chestplate": "Peto de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots": "Botas de netherita y Hierro",
+      "item.recipes_plus.netheritediamond_chestplate.description_2": "§bFuerza",
+      "item.recipes_plus.netheritediamond_chestplate.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_chestplate.description_1": "§bResistencia",
+      "item.recipes_plus.sticktrident": "Mango de tridente",
+      "item.recipes_plus.netheritediamondshovel": "Pala de netherita y diamante",
+      "item.recipes_plus.copperarmor_boots": "Botas de cobre",
+      "item.recipes_plus.teethtrident": "Dientes de tridente",
+      "advancements.netheriteemeraldarmor.title": "Ahora los aldeanos me amarán",
+      "advancements.netheritediamondarmor.descr": "Obtén el set completo de armadura de netherita y diamante",
+      "item.recipes_plus.netheriteiron_leggings": "Grebas de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_helmet.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperaxe": "Hacha de cobre",
+      "item.recipes_plus.netheritediamondpickaxe": "Pico de netherita y diamante",
+      "item.recipes_plus.netheritegoldpickaxe.description_0": "§65% de probabilidad de obtener XP y dejar caer pepitas al romper bloques",
+      "item.recipes_plus.netheritegoldpickaxe.description_1": "§61% de probabilidad de obtener más XP y obtener diamantes al romper bloques",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_5": "§9 Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_1": "",
+      "item_group.recipes_plus.marxxrecipesplus": "Marxx\u0027s Recipes Plus",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_0": "§7Mejora de netherita y diamante",
+      "item.recipes_plus.netheritegoldsword": "Espada de netherita y oro",
+      "item.recipes_plus.netheritegold_chestplate.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_boots.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_chestplate.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_boots.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_chestplate.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_boots.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_chestplate.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegold_boots.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegoldingot": "Lingote de netherita y oro",
+      "item.recipes_plus.netheriteemeraldshovel": "Pala de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_2": "§6Suerte",
+      "item.recipes_plus.netheritediamond_leggings.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_0": "§7Mejora de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritediamond_leggings.description_2": "§bFuerza",
+      "item.recipes_plus.netheritegold_leggings.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheriteiron_chestplate.description_0": "§8Resistencia al fuego",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y oro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_2": "§7Aplica a:",
+      "item.recipes_plus.netheritegold_helmet.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_helmet.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_helmet.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_helmet.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.copperhoe": "Azada de cobre",
+      "advancements.netheriteironingotadv.title": "Más allá de la netherita",
+      "item.recipes_plus.netheritegold_leggings.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritediamond_leggings.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_boots": "Botas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldpickaxe": "Pico de netherita y esmeralda",
+      "item.recipes_plus.copperpickaxe": "Pico de cobre",
+      "item.recipes_plus.coppershovel": "Pala de cobre",
+      "item.recipes_plus.netheriteironpickaxe": "Pico de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldsword.description_0": "§a10% de posibilidades de que tu salud se cure por completo",
+      "item.recipes_plus.netheriteemerald_boots.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheritegold_leggings": "Grebas de netherita y oro",
+      "advancements.netheritegoldarmor.descr": "Obtén el set completo de armadura de netherita y oro",
+      "item.recipes_plus.netheriteiron_chestplate": "Peto de netherita y hierro"
+    },
+    "es_es": {
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_2": "§7Se aplica a:",
+      "item.recipes_plus.netheritediamond_chestplate": "Peto de netherita y diamante",
+      "item.recipes_plus.netheritegoldaxe": "Hacha de netherita y oro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate.description_0": "§7Mejora de netherita y oro",
+      "advancements.netheritediamondarmor.title": "La combinación perfecta",
+      "item.recipes_plus.netheriteemerald_boots": "Botas de netherita y esmeralda",
+      "block.recipes_plus.netheritegoldblock": "Bloque de netherita y oro",
+      "item.recipes_plus.netheriteemerald_leggings": "Grebas de nethertia y esmeralda",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate": "Molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldpickaxe": "Pico de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots.description_0": "§8Cuerpo ignífugo",
+      "block.recipes_plus.netheriteemeraldblock": "Bloque de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_helmet": "Casco de netherita y esmeralda",
+      "item.recipes_plus.netheriteemeraldingot": "Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondsword.description_0": "§bCuando el enemigo tiene 30% de salud o menos, el ataque inflige +6 de daño adicional",
+      "item.recipes_plus.netheriteiron_leggings.description_0": "§8Cuerpo ignífugo",
+      "advancements.netheriteironingotadv.descr": "Crea tu primer lingote de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate": "Molde de herrería de esmeralda",
+      "item.recipes_plus.netheritegold_boots": "Botas de netherita y oro",
+      "item.recipes_plus.coppersword": "Espada de cobre",
+      "item.recipes_plus.netheritegoldhoe": "Azada de netherita y oro",
+      "item.recipes_plus.netheriteiron_helmet.description_0": "§8Cuerpo ignífugo",
+      "advancements.netheritegoldarmor.title": "¿Netherita y distraer a los piglins a la vez?",
+      "item.recipes_plus.netheriteemerald_leggings.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheriteemeraldaxe": "Hacha de netherita y esmeralda",
+      "advancements.netheriteironupgrade.title": "Netherita mejorada",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_5": "§9 Lingote de netherita y hierro",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_2": "§7Se aplica a:",
+      "item.recipes_plus.netheriteironupgradesmithingtemplate.description_0": "§7Mejora de netherita y hierro",
+      "advancements.netheritediamondhoeadv.descr": "Obtén la azada de netherita y diamante",
+      "item.recipes_plus.netheritediamondaxe": "Hacha de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldsword": "Espada de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_leggings": "Grebas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldhoe": "Azada de netherita y esmeralda",
+      "item.recipes_plus.hearttrident": "Corazón de tridente",
+      "item.recipes_plus.netheriteironingot": "Lingote de netherita y hierro",
+      "item.recipes_plus.copperarmor_helmet": "Casco de cobre",
+      "advancements.netheritediamondblockadv.title": "Nivel máximo",
+      "item.recipes_plus.coppernugget": "Pepita de cobre",
+      "advancements.netheritediamondhoeadv.title": "Sobradísimo",
+      "item.recipes_plus.netheritediamondsword": "Espada de netherita y diamante",
+      "advancements.netheriteironarmor.descr": "Obtén el set completo de armadura de netherita y hierro",
+      "item.recipes_plus.netheriteironpickaxe.description_0": "§825% de probabilidad de no usar durabilidad",
+      "item.recipes_plus.netheriteemeraldpickaxe.description_0": "§a15% de probabilidad de obtener minerales adicionales de las menas",
+      "item.recipes_plus.netheritediamond_helmet": "Casco de netherita y diamante",
+      "advancements.netheriteemeraldarmor.descr": "Obtén el set completo de armadura de netherita y esmeralda",
+      "item.recipes_plus.netheritediamond_helmet.description_2": "§bFuerza",
+      "item.recipes_plus.elytrawing": "Ala de élitros",
+      "item.recipes_plus.netheritediamond_helmet.description_1": "§bResistencia",
+      "block.recipes_plus.netheriteironblock": "Bloque de netherita y hierro",
+      "item.recipes_plus.netheritediamond_helmet.description_0": "§bVelocidad",
+      "item.recipes_plus.netheriteironshovel": "Pala de netherita y hierro",
+      "advancements.netheritediamondblockadv.descr": "Crea tu primer bloque de netherita y diamante",
+      "item.recipes_plus.netheritegold_helmet": "Casco de netherita y oro",
+      "item.recipes_plus.netheritegoldsword.description_0": "§620% de probabilidad de golpe crítico, golpe crítico +4 de daño adicional",
+      "advancements.netheriteironupgrade.descr": "Crea tu primer molde de herrería de hierro",
+      "item.recipes_plus.netheritegoldupgradesmithingtemplate": "Molde de herrería de oro",
+      "item.recipes_plus.netheritediamondpickaxe.description_0": "§bFunde automaticamente los bloques",
+      "item.recipes_plus.netheriteironhoe": "Azada de netherita y hierro",
+      "item.recipes_plus.netheritegoldshovel": "Pala de netherita y oro",
+      "item.recipes_plus.copperarmor_leggings": "Grebas de cobre",
+      "block.recipes_plus.netheritediamondblock": "Bloque de netherita y diamante",
+      "item.recipes_plus.netheritediamond_boots.description_2": "§bFuerza",
+      "item.recipes_plus.netheriteironaxe": "Hacha de netherita y hierro",
+      "item.recipes_plus.netheriteironsword.description_0": "§810% de probabilidad de lentitud II para el enemigo",
+      "item.recipes_plus.netheritediamond_boots.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteironsword": "Espada de netherita y hierro",
+      "item.recipes_plus.netheritediamond_boots.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamondingot": "Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate": "Molde de herrería de diamante",
+      "advancements.netheriteironarmor.title": "¡¿Cúbreme de netherita y... hierro?!",
+      "item.recipes_plus.netheritediamondhoe": "Azada de netherita y diamante",
+      "item.recipes_plus.netheriteiron_helmet": "Casco de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_chestplate": "Peto de netherita y esmeralda",
+      "item.recipes_plus.netheriteemerald_chestplate.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperarmor_chestplate": "Peto de cobre",
+      "item.recipes_plus.netheritegold_chestplate": "Peto de netherita y oro",
+      "item.recipes_plus.netheriteiron_boots": "Botas de netherita y Hierro",
+      "item.recipes_plus.netheritediamond_chestplate.description_2": "§bFuerza",
+      "item.recipes_plus.netheritediamond_chestplate.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_chestplate.description_1": "§bResistencia",
+      "item.recipes_plus.sticktrident": "Mango de tridente",
+      "item.recipes_plus.netheritediamondshovel": "Pala de netherita y diamante",
+      "item.recipes_plus.copperarmor_boots": "Botas de cobre",
+      "item.recipes_plus.teethtrident": "Dientes de tridente",
+      "advancements.netheriteemeraldarmor.title": "Ahora los aldeanos me amarán",
+      "advancements.netheritediamondarmor.descr": "Obtén el set completo de armadura de netherita y diamante",
+      "item.recipes_plus.netheriteiron_leggings": "Grebas de netherita y hierro",
+      "item.recipes_plus.netheriteemerald_helmet.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.copperaxe": "Hacha de cobre",
+      "item.recipes_plus.netheritediamondpickaxe": "Pico de netherita y diamante",
+      "item.recipes_plus.netheritegoldpickaxe.description_0": "§65% de probabilidad de obtener XP y dejar caer pepitas al romper bloques",
+      "item.recipes_plus.netheritegoldpickaxe.description_1": "§61% de probabilidad de obtener más XP y obtener diamantes al romper bloques",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_5": "§9 Lingote de netherita y diamante",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y esmeralda",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_2": "§7Se aplica a:",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_1": "",
+      "item_group.recipes_plus.marxxrecipesplus": "Marxx\u0027s Recipes Plus",
+      "item.recipes_plus.netheritediamondupgradesmithingtemplate.description_0": "§7Mejora de netherita y diamante",
+      "item.recipes_plus.netheritegoldsword": "Espada de netherita y oro",
+      "item.recipes_plus.netheritegold_chestplate.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_boots.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_chestplate.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_boots.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_chestplate.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_boots.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritegold_chestplate.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegold_boots.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheritegoldingot": "Lingote de netherita y oro",
+      "item.recipes_plus.netheriteemeraldshovel": "Pala de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_2": "§6Suerte",
+      "item.recipes_plus.netheritediamond_leggings.description_1": "§bResistencia",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_0": "§7Mejora de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_leggings.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheritediamond_leggings.description_2": "§bFuerza",
+      "item.recipes_plus.netheritegold_leggings.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.netheriteiron_chestplate.description_0": "§8Cuerpo ignífugo",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_3": "§9 Equipamiento de netherita y oro",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_4": "§7Ingredientes:",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_1": "",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_2": "§7Se aplica a:",
+      "item.recipes_plus.netheritegold_helmet.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritegold_helmet.description_2": "§6Suerte",
+      "item.recipes_plus.netheritegold_helmet.description_1": "§6Prisa minera",
+      "item.recipes_plus.netheriteemeraldupgradesmithingtemplate.description_5": "§9 Lingote de netherita y esmeralda",
+      "item.recipes_plus.netheritegold_helmet.description_0": "§6Piglins pasivos",
+      "item.recipes_plus.copperhoe": "Azada de cobre",
+      "advancements.netheriteironingotadv.title": "Más allá de la netherita",
+      "item.recipes_plus.netheritegold_leggings.description_3": "§6Visión nocturna",
+      "item.recipes_plus.netheritediamond_leggings.description_0": "§bVelocidad",
+      "item.recipes_plus.netheritediamond_boots": "Botas de netherita y diamante",
+      "item.recipes_plus.netheriteemeraldpickaxe": "Pico de netherita y esmeralda",
+      "item.recipes_plus.copperpickaxe": "Pico de cobre",
+      "item.recipes_plus.coppershovel": "Pala de cobre",
+      "item.recipes_plus.netheriteironpickaxe": "Pico de netherita y hierro",
+      "item.recipes_plus.netheriteemeraldsword.description_0": "§a10% de posibilidades de que tu salud se cure por completo",
+      "item.recipes_plus.netheriteemerald_boots.description_0": "§aHéroe de la aldea",
+      "item.recipes_plus.netheritegold_leggings": "Grebas de netherita y oro",
+      "advancements.netheritegoldarmor.descr": "Obtén el set completo de armadura de netherita y oro",
+      "item.recipes_plus.netheriteiron_chestplate": "Peto de netherita y hierro"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "recipes_plus",
+    "modName": "Marxx\u0027s_Recipes_Plus",
+    "version": "5.0",
+    "description": "Marxx’s Recipes Plus is a vanilla-friendly mod that adds realistic and balanced crafting recipes for hard-to-obtain Minecraft items, introduces Copper gear, and expands Netherite progression with four new hybrid tiers, each with unique abilities.",
+    "author": "Marxx07",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/marxx07-recipes-plus",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created by Marx07",
+    "modElementsPackage": "recipes_plus"
+  },
+  "mcreatorVersion": 202400452410
+}

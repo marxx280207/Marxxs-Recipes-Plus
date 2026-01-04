@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "recipes_plus:copperpickaxe",
+    "recipes_plus:netheritediamondpickaxe",
+    "recipes_plus:netheriteemeraldpickaxe",
+    "recipes_plus:netheritegoldpickaxe",
+    "recipes_plus:netheriteironpickaxe"
+  ]
+}

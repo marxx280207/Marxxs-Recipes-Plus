@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:twisting_vines"
+    },
+    "b": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "c": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "d": {
+      "item": "minecraft:warped_wart_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}

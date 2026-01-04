@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "recipes_plus:netheriteemerald_chestplate"
+    },
+    "title": {
+      "translate": "advancements.netheriteemeraldarmor.title"
+    },
+    "description": {
+      "translate": "advancements.netheriteemeraldarmor.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netheriteemeraldarmor_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 400,
+    "recipes": [
+      "recipes_plus:netheritediamondhelmetrecipe",
+      "recipes_plus:netheritediamondchestplaterecipe",
+      "recipes_plus:netheritediamondleggingsrecipe",
+      "recipes_plus:netheritediamondbootsrecipe"
+    ]
+  },
+  "parent": "recipes_plus:netheritegoldarmor"
+}

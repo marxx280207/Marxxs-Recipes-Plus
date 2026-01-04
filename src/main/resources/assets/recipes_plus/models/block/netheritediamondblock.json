@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "recipes_plus:block/netherite_diamond_block",
+    "up": "recipes_plus:block/netherite_diamond_block",
+    "north": "recipes_plus:block/netherite_diamond_block",
+    "east": "recipes_plus:block/netherite_diamond_block",
+    "south": "recipes_plus:block/netherite_diamond_block",
+    "west": "recipes_plus:block/netherite_diamond_block",
+    "particle": "recipes_plus:block/netherite_diamond_block"
+  },
+  "render_type": "solid"
+}

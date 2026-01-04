@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "recipes_plus:netheritediamondblock",
+    "recipes_plus:netheriteemeraldblock",
+    "recipes_plus:netheritegoldblock",
+    "recipes_plus:netheriteironblock"
+  ]
+}

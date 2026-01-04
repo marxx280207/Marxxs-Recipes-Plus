@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "recipes_plus:netheriteiron_chestplate"
+    },
+    "title": {
+      "translate": "advancements.netheriteironarmor.title"
+    },
+    "description": {
+      "translate": "advancements.netheriteironarmor.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netheriteironarmor_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 150,
+    "recipes": [
+      "recipes_plus:netheriteironhelmetrecipe",
+      "recipes_plus:netheriteironchestplaterecipe",
+      "recipes_plus:netheriteironleggingsrecipe",
+      "recipes_plus:netheriteironbootsrecipe"
+    ]
+  },
+  "parent": "minecraft:nether/netherite_armor"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "recipes_plus:netheriteemeraldupgradesmithingtemplate"
+    },
+    "c": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "recipes_plus:netheritediamondupgradesmithingtemplate",
+    "count": 1
+  }
+}

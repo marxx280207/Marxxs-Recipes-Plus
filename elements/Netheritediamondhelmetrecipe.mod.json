@@ -1,0 +1,28 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:Netheriteemerald.helmet"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Netheritediamondingot"
+    },
+    "smithingInputTemplateStack": {
+      "value": "CUSTOM:Netheritediamondupgradesmithingtemplate"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:Netheritediamond.helmet"
+    },
+    "name": "netheritediamondhelmetrecipe",
+    "namespace": "mod"
+  }
+}

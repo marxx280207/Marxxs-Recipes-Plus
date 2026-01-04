@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "recipes_plus:netheritegold_chestplate"
+    },
+    "title": {
+      "translate": "advancements.netheritegoldarmor.title"
+    },
+    "description": {
+      "translate": "advancements.netheritegoldarmor.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netheritegoldarmor_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 250,
+    "recipes": [
+      "recipes_plus:netheriteemeraldhelmetrecipe",
+      "recipes_plus:netheriteemeraldchestplaterecipe",
+      "recipes_plus:netheriteemeraldleggingsrecipe",
+      "recipes_plus:netheriteemeraldbootsrecipe"
+    ]
+  },
+  "parent": "recipes_plus:netheriteironarmor"
+}

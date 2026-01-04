@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "recipes_plus:coppersword",
+    "recipes_plus:netheritediamondsword",
+    "recipes_plus:netheriteemeraldsword",
+    "recipes_plus:netheritegoldsword",
+    "recipes_plus:netheriteironsword"
+  ]
+}

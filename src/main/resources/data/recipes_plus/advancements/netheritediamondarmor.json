@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "recipes_plus:netheritediamond_chestplate"
+    },
+    "title": {
+      "translate": "advancements.netheritediamondarmor.title"
+    },
+    "description": {
+      "translate": "advancements.netheritediamondarmor.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netheritediamondarmor_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 600
+  },
+  "parent": "recipes_plus:netheriteemeraldarmor"
+}

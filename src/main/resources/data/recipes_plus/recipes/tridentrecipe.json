@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "recipes_plus:teethtrident"
+    },
+    "b": {
+      "item": "recipes_plus:hearttrident"
+    },
+    "c": {
+      "item": "recipes_plus:sticktrident"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}

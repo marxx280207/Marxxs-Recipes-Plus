@@ -1,0 +1,29 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Cover me in netherite and... iron?!",
+    "achievementDescription": "Obtain the entire set of netherite and iron armor",
+    "achievementIcon": {
+      "value": "CUSTOM:Netheriteiron.body"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Netheriteironhelmetrecipe",
+      "Netheriteironchestplaterecipe",
+      "Netheriteironleggingsrecipe",
+      "Netheriteironbootsrecipe"
+    ],
+    "rewardXP": 150,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "nether/netherite_armor"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"13\" y=\"27\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

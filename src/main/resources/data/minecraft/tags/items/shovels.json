@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "recipes_plus:netheritegoldshovel",
+    "recipes_plus:coppershovel",
+    "recipes_plus:netheritediamondshovel",
+    "recipes_plus:netheriteemeraldshovel",
+    "recipes_plus:netheriteironshovel"
+  ]
+}

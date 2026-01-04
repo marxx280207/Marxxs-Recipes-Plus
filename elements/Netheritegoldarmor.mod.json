@@ -1,0 +1,29 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Netherite and piglin distraction at the same time?",
+    "achievementDescription": "Obtain the entire set of netherite and gold armor",
+    "achievementIcon": {
+      "value": "CUSTOM:Netheritegold.body"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Netheriteemeraldhelmetrecipe",
+      "Netheriteemeraldchestplaterecipe",
+      "Netheriteemeraldleggingsrecipe",
+      "Netheriteemeraldbootsrecipe"
+    ],
+    "rewardXP": 250,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Netheriteironarmor"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"13\" y=\"27\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

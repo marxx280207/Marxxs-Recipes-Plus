@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="recipes_plus"
+version="5.0"
+displayName="Marxx's_Recipes_Plus"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/marxx07-recipes-plus"
+logoFile="logo.png"
+credits="Created by Marx07"
+authors="Marxx07"
+description="Marxx\u2019s Recipes Plus is a vanilla-friendly mod that adds realistic and balanced crafting recipes for hard-to-obtain Minecraft items, introduces Copper gear, and expands Netherite progression with four new hybrid tiers, each with unique abilities."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.recipes_plus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

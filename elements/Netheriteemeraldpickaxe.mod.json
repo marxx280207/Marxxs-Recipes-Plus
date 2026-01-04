@@ -1,0 +1,47 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "netherite_emerald_pickaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Netherite and Emerald Pickaxe",
+    "specialInformation": {
+      "fixedValue": [
+        "§a15% chance of dropping extra minerals from ores"
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      },
+      {
+        "value": "CUSTOM:Marxxrecipesplus"
+      }
+    ],
+    "efficiency": 12.0,
+    "attackSpeed": 1.2,
+    "enchantability": 12,
+    "damageVsEntity": 7.0,
+    "usageCount": 2600,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Netheriteemeraldingot"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "Netheriteemeraldpickaxeeffect"
+    }
+  }
+}

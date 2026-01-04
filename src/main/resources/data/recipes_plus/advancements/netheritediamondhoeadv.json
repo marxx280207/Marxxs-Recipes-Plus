@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "recipes_plus:netheritediamondhoe"
+    },
+    "title": {
+      "translate": "advancements.netheritediamondhoeadv.title"
+    },
+    "description": {
+      "translate": "advancements.netheritediamondhoeadv.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netheritediamondhoeadv_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "recipes_plus:netheritediamondhoe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "minecraft:husbandry/obtain_netherite_hoe"
+}
